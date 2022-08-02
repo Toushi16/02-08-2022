@@ -1,0 +1,12 @@
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.ToDoList {
+    width: 1024px;
+    height: 937px;
+    margin: 0 auto;
+    background-color: ghostwhite;
+    box-shadow: 0 0.3px 0.3px 0.2px inset;
+}
